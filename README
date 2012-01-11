@@ -1,5 +1,4 @@
-A multimethod library for PHP
-Working in progress..
+Multimethods are a functional programming "control structure" enabling you to dynamically build-up and manipulate the dispatching behavior of a polymorphic function.
+Ported to PHP from http://krisjordan.com/multimethod-js
 
-Source:
-http://krisjordan.com/multimethod-js
+See the examples!
